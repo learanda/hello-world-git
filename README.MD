@@ -37,3 +37,6 @@ Underline 2
 - [[Esto es un link a "Cabeceras"](#cabeceras)]
 - [[Esto es un link a "Listas"](#listas)]
 - [Para mas ejemplos, ver este readme en "RAW"](https://github.com/maxwellnewage/javascript_ejercicios/blob/master/README.md#general)
+
+# Imagenes
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
