@@ -29,3 +29,11 @@ Underline 2
 - Este es un item de lista desordenada.
 - Este es un item de lista desordenada.
 - Este es un item de lista desordenada.
+
+# Links
+- <a href="http://google.com">Esto es un link HTML</a>
+- [Esto es un link en Markdown](http://google.com)
+- [Esto es un link al index](index.html)
+- [[Esto es un link a "Cabeceras"](#cabeceras)]
+- [[Esto es un link a "Listas"](#listas)]
+- [Para mas ejemplos, ver este readme en "RAW"](https://github.com/maxwellnewage/javascript_ejercicios/blob/master/README.md#general)
