@@ -39,4 +39,46 @@ Underline 2
 - [Para mas ejemplos, ver este readme en "RAW"](https://github.com/maxwellnewage/javascript_ejercicios/blob/master/README.md#general)
 
 # Imagenes
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo GitHub](https://i.pinimg.com/originals/9e/2f/3c/9e2f3c8282f7e7eabf0612872880cc4d.png)
+
+# Code Snippets
+Codigo en JSON (se debe especificar el lenguaje para que el highlight lo reconozca como codigo). Extracto tomado de [Highlightjs.org](https://highlightjs.org/static/demo/)
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+Codigo en JavaScript
+```javascript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
+```
